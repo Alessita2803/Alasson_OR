@@ -1,0 +1,72 @@
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\appsettings.json
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\Alasson.exe
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\Alasson.deps.json
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\Alasson.runtimeconfig.json
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\Alasson.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\Alasson.pdb
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\Alasson.csproj.AssemblyReference.cache
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\Alasson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\Alasson.AssemblyInfoInputs.cache
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\Alasson.AssemblyInfo.cs
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\Alasson.csproj.CoreCompileInputs.cache
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\Alasson.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\Alasson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\staticwebassets\msbuild.Alasson.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\staticwebassets\msbuild.build.Alasson.props
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Alasson.props
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Alasson.props
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\scopedcss\bundle\Alasson.styles.css
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\Alasson.csproj.Up2Date
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\Alasson.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\refint\Alasson.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\Alasson.pdb
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\Alasson.genruntimeconfig.cache
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\obj\Debug\net8.0\ref\Alasson.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Alasson\Alasson\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\appsettings.json
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\Alasson.exe
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\Alasson.deps.json
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\Alasson.runtimeconfig.json
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\Alasson.dll
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\Alasson.pdb
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\Alasson.csproj.AssemblyReference.cache
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\Alasson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\Alasson.AssemblyInfoInputs.cache
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\Alasson.AssemblyInfo.cs
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\Alasson.csproj.CoreCompileInputs.cache
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\Alasson.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\Alasson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\staticwebassets\msbuild.Alasson.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\staticwebassets\msbuild.build.Alasson.props
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Alasson.props
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Alasson.props
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\scopedcss\bundle\Alasson.styles.css
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\Alasson.csproj.Up2Date
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\Alasson.dll
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\refint\Alasson.dll
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\Alasson.pdb
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\Alasson.genruntimeconfig.cache
+C:\Users\AlessaVianeyColorado\OneDrive - CancunIT Software S.A. de C.V\Documentos\Alasson\Alasson\obj\Debug\net8.0\ref\Alasson.dll

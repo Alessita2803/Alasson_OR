@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AlessaVianeyColorado\\OneDrive - CancunIT Software S.A. de C.V\\Documentos\\Alasson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15A7CF47-300D-47E4-A0FD-9D1D15A30DE3}|Alasson\\Alasson.csproj|c:\\users\\alessavianeycolorado\\onedrive - cancunit software s.a. de c.v\\documentos\\alasson\\alasson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A7CF47-300D-47E4-A0FD-9D1D15A30DE3}|Alasson\\Alasson.csproj|solutionrelative:alasson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A7CF47-300D-47E4-A0FD-9D1D15A30DE3}|Alasson\\Alasson.csproj|c:\\users\\alessavianeycolorado\\onedrive - cancunit software s.a. de c.v\\documentos\\alasson\\alasson\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A7CF47-300D-47E4-A0FD-9D1D15A30DE3}|Alasson\\Alasson.csproj|solutionrelative:alasson\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\AlessaVianeyColorado\\OneDrive - CancunIT Software S.A. de C.V\\Documentos\\Alasson\\Alasson\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Alasson\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\AlessaVianeyColorado\\OneDrive - CancunIT Software S.A. de C.V\\Documentos\\Alasson\\Alasson\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "Alasson\\Service\\EmployeeService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T20:13:41.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AlessaVianeyColorado\\OneDrive - CancunIT Software S.A. de C.V\\Documentos\\Alasson\\Alasson\\Program.cs",
+              "RelativeDocumentMoniker": "Alasson\\Program.cs",
+              "ToolTip": "C:\\Users\\AlessaVianeyColorado\\OneDrive - CancunIT Software S.A. de C.V\\Documentos\\Alasson\\Alasson\\Program.cs",
+              "RelativeToolTip": "Alasson\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:40:49.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
